@@ -1,0 +1,14 @@
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Form2.resources
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Form3.resources
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Form4.resources
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Form5.resources
+c:\users\dell\documents\visual studio 2015\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Form6.resources
